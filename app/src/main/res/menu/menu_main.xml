@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/rate_us"
+        android:orderInCategory="100"
+        android:title="Rate us"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/share_app"
+        android:orderInCategory="100"
+        android:title="Share app"
+        app:showAsAction="never" />
+</menu>

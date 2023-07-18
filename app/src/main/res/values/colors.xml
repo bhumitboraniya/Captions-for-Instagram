@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1a8969</color>
+    <color name="pelano">#008069</color>
+    <color name="colorPrimaryDark">#1a8969</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="textcolor">#ffffff</color>
+    <color name="green">#1a8969</color>
+
+</resources>

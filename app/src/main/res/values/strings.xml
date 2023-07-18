@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">"Captions For Social Media"</string>
+    <string name="a">"Cm"</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+<!--    -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_banner">ca-app-pub-9477516779433080/6061610386</string>
+    <string name="admob_interstitial">ca-app-pub-9477516779433080/8882967427</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
